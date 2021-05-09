@@ -1,0 +1,19 @@
+h1{
+   font: normal normal bold 70px arial;
+   color: rgb(0, 200, 0);
+   text-decoration: ;
+}
+
+h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-variant: normal;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+p{
+    font: 20px verdana;
+    text-transform: uppercase;
+}
